@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="text-red-600">
        
           Learn React
         
